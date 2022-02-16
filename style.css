@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+p{
+    color:darkcyan;
+    font-size: large;
+}
+h1, h2{
+    color: brown;
+    background-color: aquamarine;
+}
